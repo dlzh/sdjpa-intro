@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SdjpaIntroApplication {
-//DZ updated to test git againaa
+//DZ updated to test git againab
     public static void main(String[] args) {
         SpringApplication.run(SdjpaIntroApplication.class, args);
     }
